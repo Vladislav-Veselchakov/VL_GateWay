@@ -38,6 +38,14 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+<!--        vl add as on git-hub-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+<!--        ////////////// eof as on git-hub //////////////-->
+
     </dependencies>
     <dependencyManagement>
         <dependencies>

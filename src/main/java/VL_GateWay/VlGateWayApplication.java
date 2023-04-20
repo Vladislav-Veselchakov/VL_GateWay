@@ -8,6 +8,7 @@ public class VlGateWayApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(VlGateWayApplication.class, args);
+        System.err.println("App started");;
     }
 
 }
